@@ -50,26 +50,33 @@ A production-ready MERN application with **OTP auth**, **admin approvals**, **Cl
 **Tech Stack:** React, Node, Express, MongoDB, Tailwind, Cloudinary, Google Maps API  
 **Links:** [🌐 Live](https://adoptus.fallmodz.in) · [💻 Code](https://github.com/CodeByDhiraj/adoptus-client)  
 <br>
-<img src="https://adoptus.fallmodz.in/previews/banner.png" width="100%" alt="AdoptUs Preview" style="border-radius:8px;"/>
+<p align="center">
+  <img src="https://adoptus.fallmodz.in/previews/banner.png" 
+       alt="AdoptUs Preview" 
+       width="92%" 
+       style="border-radius:8px;"/>
+</p>
+
 
 </td>
 <td width="50%" valign="top">
 
-#### 🎬 NetFrix — OTT Streaming (Showcase)
+#### 🎬 NetFrix — OTT Streaming PlatFrom
 Netflix-style platform with **custom HLS player**, **watch history**, **favorites**, **role-based admin**, and **R2 + Cloudinary pipeline**.  
-<sub>(Code private by request; demo + preview below)</sub>  
 
 **Tech Stack:** Next.js 14 + TS · Node · MongoDB · Cloudflare R2 · Cloudinary  
 **Links:** [▶ Watch Preview Video](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7348178456901234688?compact=1)
 
 <!-- Clickable preview (image or GIF) -->
-<a href="YOUR_LINKEDIN_POST_URL" target="_blank" rel="noopener">
+<a href="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7348178456901234688?compact=1" target="_blank" rel="noopener">
+  <p align="center">
   <img
     src="https://res.cloudinary.com/dtnnjs7nj/image/upload/v1754666120/netfrix_yqnrq1.png"
     alt="NetFrix Demo Preview"
     width="100%"
     style="border-radius:8px;display:block;margin-top:8px;transition:transform .2s ease;"
   />
+  </p>  
 </a>
 </td>
 </tr>
@@ -83,7 +90,13 @@ Cross-platform AI-powered writing tool with **generate → loading → result** 
 **Tech Stack:** Next.js, Tailwind, Framer Motion, Serverless API  
 **Links:** [🌐 Live](https://lettrics.com)  
 <br>
-<img src="https://res.cloudinary.com/dtnnjs7nj/image/upload/v1754666246/lettrics_locnkb.png" width="100%" alt="Lettrics Preview" style="border-radius:8px;"/>
+<p align="center">
+  <img src="https://res.cloudinary.com/dtnnjs7nj/image/upload/v1754666246/lettrics_locnkb.png" 
+       alt="Lettrics Preview" 
+       width="100%" 
+       style="border-radius:8px;"/>
+</p>
+
 
 </td>
 <td width="50%" valign="top">
@@ -94,7 +107,12 @@ Play Store–ready AI-powered writing assistant with **multi-category content ge
 **Tech Stack:** Kotlin, AndroidX, WebView, Gradle (AGP)  
 **Links:** [📦 Play Store](https://play.google.com/store/apps/details?id=com.lettricsai)  
 <br>
-<img src="https://res.cloudinary.com/dtnnjs7nj/image/upload/v1754667000/lettricsphone_otbila.jpg" width="100%" alt="Lettrics Android App Preview" style="border-radius:8px;"/>
+<p align="center">
+  <img src="https://res.cloudinary.com/dtnnjs7nj/image/upload/v1754667000/lettricsphone_otbila.jpg" 
+       alt="Lettrics Android App Preview" 
+       width="35%" 
+       style="border-radius:10px; margin-top:10px;"/>
+</p>
 
 </td>
 </tr>
