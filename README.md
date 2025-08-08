@@ -3,11 +3,11 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-fallmodz.in-0ea5e9?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-two-mu-wecylq05fc.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-DhirajDev-0ea5e9?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-two-mu-wecylq05fc.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhiraj-kumar-850s/)
 [![Email](https://img.shields.io/badge/Email-dsingh98658%40gmail.com-ed4b5f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dsingh98658@gmail.com)
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Full-Stack+Developer+%E2%80%94+React%2FNext.js%2FNode;Android+(Kotlin)+%E2%80%94+WebView%2C+Splash%2C+Immersive+UI;MongoDB%2C+Firebase%2C+Cloudflare%2C+Vercel;Production-grade+apps%2C+clean+code%2C+solid+UX" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=1000&lines=Full-Stack+Developer+-+React%2C+Next.js%2C+TypeScript%2C+Node.js%2C+Express;Native+Android+Developer+-+Kotlin%2C+Java%2C+WebView%2C+Splash%2C+Immersive+UI;Databases+-+MongoDB%2C+MySQL%2C+Firebase;Cloud+%26+DevOps+-+Vercel%2C+Render%2C+Cloudflare+R2%2FCDN;Security+%26+Auth+-+JWT%2C+OAuth%2C+NextAuth%2C+OTP;Production-grade+Apps%2C+Clean+Code%2C+Solid+UX" />
 </div>
 
 ---
@@ -18,15 +18,19 @@ Full-stack developer shipping **production-ready** web & Android apps. I care ab
 ---
 
 ## 🧰 Skills
-**Languages:** JavaScript, TypeScript, Java, Python, C/C++, C#  
-**Frontend:** React, Next.js (App Router), Tailwind, Framer Motion  
-**Backend:** Node.js, Express, REST APIs, WebSockets, Rate-limit, Cookies/JWT/OTP  
-**DB:** MongoDB, Firebase, MySQL  
-**Cloud/DevOps:** Vercel, Render, Cloudflare R2/CDN, GitHub Actions  
-**Auth:** JWT, httpOnly cookies, OAuth (Google), OTP  
-**Media:** HLS/.m3u8 pipeline, Cloudinary (images/posters), R2 (videos)  
-**Android (Kotlin):** WebView app, splash, immersive HUD, back-stack nav, FLAG_SECURE optional  
-**Tooling:** Git, Linux, Postman, Figma
+
+| **Category** | **Technologies** |
+|--------------|------------------|
+| **Languages** | JavaScript · TypeScript · Java · Python · C/C++ · C# |
+| **Frontend** | React · Next.js (App Router) · Tailwind CSS · Framer Motion |
+| **Backend** | Node.js · Express · REST APIs · WebSockets · Rate-Limiting · JWT · OTP |
+| **Databases** | MongoDB · MySQL · Firebase |
+| **Cloud & DevOps** | Vercel · Render · Cloudflare R2/CDN · GitHub Actions |
+| **Authentication** | JWT · httpOnly Cookies · OAuth (Google) · OTP Verification |
+| **Media** | HLS/.m3u8 Pipeline · Cloudinary (images/posters) · R2 (videos) |
+| **Android (Kotlin)** | WebView App · Splash · Immersive HUD · Back-Stack Nav · FLAG_SECURE |
+| **Tooling** | Git · Linux · Postman · Figma |
+
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,next,tailwind,ts,js,nodejs,express,mongodb,firebase,python,java,git,github,vercel,cloudflare,linux&perline=9" />
@@ -35,54 +39,62 @@ Full-stack developer shipping **production-ready** web & Android apps. I care ab
 ---
 
 ## 🚀 Projects
+
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### AdoptUs — Pet Adoption Platform
-Production MERN app with **OTP auth**, **admin approvals**, **Cloudinary uploads**, **role-based access**, and **real-time notifications**.
-<br/><br/>
-<b>Stack:</b> React, Node, Express, MongoDB, Tailwind, Cloudinary, Google Maps API  
-<b>Links:</b> <a href="https://adoptus.fallmodz.in">Live</a> · <a href="https://github.com/CodeByDhiraj/AdoptUs">Code</a>  
-<br/><br/>
-<img src="YOUR_ADOPTUS_GIF_OR_IMAGE_URL" width="100%" alt="AdoptUs Preview"/>
+#### 🚀 AdoptUs — Pet Adoption Platform
+A production-ready MERN application with **OTP auth**, **admin approvals**, **Cloudinary uploads**, **role-based access**, and **real-time notifications**.  
+<br>
+**Tech Stack:** React, Node, Express, MongoDB, Tailwind, Cloudinary, Google Maps API  
+**Links:** [🌐 Live](https://adoptus.fallmodz.in) · [💻 Code](https://github.com/CodeByDhiraj/adoptus-client)  
+<br>
+<img src="https://adoptus.fallmodz.in/previews/banner.png" width="100%" alt="AdoptUs Preview" style="border-radius:8px;"/>
 
 </td>
 <td width="50%" valign="top">
 
-### NetFrix — OTT Streaming (Showcase)
-Netflix-style platform with custom **HLS player**, **watch history**, **favorites**, **role-based admin**, **R2+Cloudinary pipeline**.  
-<small>(Code private by request; demo link below.)</small>
-<br/><br/>
-<b>Stack:</b> Next.js 14 + TS, Node, MongoDB, Cloudflare R2, Cloudinary  
-<b>Links:</b> <a href="https://netfrix.fallmodz.in">Demo</a>  
-<br/><br/>
-<img src="YOUR_NETFRIX_GIF_OR_IMAGE_URL" width="100%" alt="NetFrix Preview"/>
+#### 🎬 NetFrix — OTT Streaming (Showcase)
+Netflix-style platform with **custom HLS player**, **watch history**, **favorites**, **role-based admin**, and **R2 + Cloudinary pipeline**.  
+<sub>(Code private by request; demo + preview below)</sub>  
 
+**Tech Stack:** Next.js 14 + TS · Node · MongoDB · Cloudflare R2 · Cloudinary  
+**Links:** [▶ Watch Preview Video](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7348178456901234688?compact=1)
+
+<!-- Clickable preview (image or GIF) -->
+<a href="YOUR_LINKEDIN_POST_URL" target="_blank" rel="noopener">
+  <img
+    src="https://res.cloudinary.com/dtnnjs7nj/image/upload/v1754666120/netfrix_yqnrq1.png"
+    alt="NetFrix Demo Preview"
+    width="100%"
+    style="border-radius:8px;display:block;margin-top:8px;transition:transform .2s ease;"
+  />
+</a>
 </td>
 </tr>
 
 <tr>
 <td width="50%" valign="top">
 
-### Lettrics AI — Writing Assistant
-Cross-platform AI writer with **generate → loading → result** flows, local-first privacy (sessionStorage), and modern 3D-ish UI.
-<br/><br/>
-<b>Stack:</b> Next.js, Tailwind, Framer Motion, Serverless API  
-<b>Links:</b> <a href="https://lettrics.com">Live</a>  
-<br/><br/>
-<img src="YOUR_LETTRICS_GIF_OR_IMAGE_URL" width="100%" alt="Lettrics Preview"/>
+#### ✍️ Lettrics AI — Writing Assistant
+Cross-platform AI-powered writing tool with **generate → loading → result** flows, local-first privacy (sessionStorage), and modern 3D UI.  
+<br>
+**Tech Stack:** Next.js, Tailwind, Framer Motion, Serverless API  
+**Links:** [🌐 Live](https://lettrics.com)  
+<br>
+<img src="https://res.cloudinary.com/dtnnjs7nj/image/upload/v1754666246/lettrics_locnkb.png" width="100%" alt="Lettrics Preview" style="border-radius:8px;"/>
 
 </td>
 <td width="50%" valign="top">
 
-### Android — NetFrix WebView App (Kotlin)
-**Play-store-ready** WebView app with **splash**, **immersive HUD**, **back-history**, and **secure playback UX**.
-<br/><br/>
-<b>Stack:</b> Kotlin, AndroidX, WebView, Gradle (latest AGP)  
-<b>Links:</b> <a href="YOUR_ANDROID_APK_OR_VIDEO_URL">APK / Demo</a>  
-<br/><br/>
-<img src="YOUR_ANDROID_GIF_OR_IMAGE_URL" width="100%" alt="Android App Preview"/>
+#### 📱 Lettrics AI — Android App (Kotlin)
+Play Store–ready AI-powered writing assistant with **multi-category content generation**, **generate → loading → result** flow, and **offline-first privacy**.  
+<br>
+**Tech Stack:** Kotlin, AndroidX, WebView, Gradle (AGP)  
+**Links:** [📦 Play Store](https://play.google.com/store/apps/details?id=com.lettricsai)  
+<br>
+<img src="https://res.cloudinary.com/dtnnjs7nj/image/upload/v1754667000/lettricsphone_otbila.jpg" width="100%" alt="Lettrics Android App Preview" style="border-radius:8px;"/>
 
 </td>
 </tr>
@@ -91,12 +103,15 @@ Cross-platform AI writer with **generate → loading → result** flows, local-f
 ---
 
 ## 🏆 Achievements & Certifications
-- **Mastery Award** — *Design of Web Prodigy: Mastering the Art of Website Design*  
-- **Conference Publication** — *Blockchain Security: Threats, Vulnerabilities & Countermeasures* (ComSIA-2025)  
-- **Microsoft Learn Student Ambassadors** — Successfully completed  
-- **IBM SkillBuild** — Project Management Fundamentals (certified)  
-- **NPTEL** — IoT • Privacy & Security in Online Social Media • Industry 4.0  
-- **Volunteer** — Digital Di-Namo (SCA MRIIRS)
+
+| 🏅 **Title** | 📄 **Details** |
+|-------------|----------------|
+| **Mastery Award** | *Design of Web Prodigy: Mastering the Art of Website Design* |
+| **Conference Publication** | *Blockchain Security: Threats, Vulnerabilities & Countermeasures* — Presented at ComSIA 2025 |
+| **Microsoft Learn Student Ambassadors** | Successfully completed the program |
+| **IBM SkillBuild** | Project Management Fundamentals — *Certified* |
+| **NPTEL Certifications** | IoT · Privacy & Security in Online Social Media · Industry 4.0 |
+| **Volunteer Work** | Digital Di-Namo — Organized by SCA MRIIRS |
 
 ---
 
