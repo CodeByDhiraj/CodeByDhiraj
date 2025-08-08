@@ -69,13 +69,17 @@ Netflix-style platform with **custom HLS player**, **watch history**, **favorite
 
 <!-- Clickable preview (image or GIF) -->
 <a href="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7348178456901234688?compact=1" target="_blank" rel="noopener">
+<br>
+  <br>
   <p align="center">
   <img
     src="https://res.cloudinary.com/dtnnjs7nj/image/upload/v1754666120/netfrix_yqnrq1.png"
     alt="NetFrix Demo Preview"
-    width="100%"
-    style="border-radius:8px;display:block;margin-top:8px;transition:transform .2s ease;"
+    width="92%"
+    style="border-radius:10px;display:block;margin-top:2px;transition:transform .2s ease;"
   />
+    </br>
+  </br
   </p>  
 </a>
 </td>
@@ -93,8 +97,8 @@ Cross-platform AI-powered writing tool with **generate → loading → result** 
 <p align="center">
   <img src="https://res.cloudinary.com/dtnnjs7nj/image/upload/v1754666246/lettrics_locnkb.png" 
        alt="Lettrics Preview" 
-       width="100%" 
-       style="border-radius:8px;"/>
+       width="92%" 
+       style="border-radius:10px;  margin-top:10px;"/>
 </p>
 
 
@@ -150,9 +154,44 @@ Play Store–ready AI-powered writing assistant with **multi-category content ge
 ---
 
 ## 🤝 Contact
-- **Portfolio:** https://portfolio-two-mu-wecylq05fc.vercel.app
-- **LinkedIn:** https://www.linkedin.com/in/dhiraj-kumar-850s
-- **Email:** dsingh98658@gmail.com  
 
-<!-- ==== FOOTER (Animated) ==== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:0b1220&height=120&section=footer" width="100%"/>
+<div align="center">
+
+<!-- Contact Card -->
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=Let's+Connect!;Open+to+Collabs%2C+Freelance%2C+and+Full-Time+Roles." />
+
+<br/>
+
+<table>
+<tr>
+<td align="center" width="200">
+  <a href="https://portfolio-two-mu-wecylq05fc.vercel.app" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="48" />
+    <br/>
+    <b>Portfolio</b>
+  </a>
+</td>
+<td align="center" width="200">
+  <a href="https://www.linkedin.com/in/dhiraj-kumar-850s" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="48" />
+    <br/>
+    <b>LinkedIn</b>
+  </a>
+</td>
+<td align="center" width="200">
+  <a href="mailto:dsingh98658@gmail.com?subject=Hello%20Dhiraj&body=Hi%20Dhiraj%2C">
+    <img src="https://skillicons.dev/icons?i=gmail" width="48" />
+    <br/>
+    <b>Email</b>
+  </a>
+</td>
+</tr>
+</table>
+
+<br/>
+<i>"Building tech that works beautifully — let's collaborate."</i>
+
+</div>
+
+<!-- Wave Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1220,100:1e3a8a&height=120&section=footer" width="100%"/>
